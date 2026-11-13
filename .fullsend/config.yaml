@@ -10,10 +10,3 @@ tracker:
                 - fullsend-ai/fullsend
                 - fullsend-ai/agents
 runtime: dummy
-status_notifications:
-    comment:
-        start: enabled
-        completion: enabled
-    reaction:
-        start: enabled
-        completion: enabled
